@@ -47,3 +47,9 @@
 0:0:0:0:0:0:0:1 - - [30/May/2019:12:09:10 +0545] "GET /TibetHouseInventory/POs/login.jsp HTTP/1.1" 200 459
 0:0:0:0:0:0:0:1 - - [30/May/2019:12:09:57 +0545] "GET /TibetHouseInventory/POs/login.jsp HTTP/1.1" 200 459
 0:0:0:0:0:0:0:1 - - [30/May/2019:12:10:00 +0545] "GET /TibetHouseInventory/POs/UserLoginValidate?Uname=xszfdsf&password=dfdsf&submit=login HTTP/1.1" 404 1123
+127.0.0.1 - - [30/May/2019:12:13:04 +0545] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/May/2019:12:13:16 +0545] "GET /TibetHouseInventory/index.jsp HTTP/1.1" 200 3776
+0:0:0:0:0:0:0:1 - - [30/May/2019:12:13:18 +0545] "GET /TibetHouseInventory/login.jsp HTTP/1.1" 200 459
+0:0:0:0:0:0:0:1 - - [30/May/2019:12:13:27 +0545] "GET /TibetHouseInventory/UserLoginValidate?Uname=Bhumika&password=Regmi&submit=login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/May/2019:12:13:27 +0545] "GET /TibetHouseInventory/pos.jsp HTTP/1.1" 200 260
+0:0:0:0:0:0:0:1 - - [30/May/2019:12:13:31 +0545] "GET /TibetHouseInventory/PosList.jsp?sku=LA00003 HTTP/1.1" 200 532
