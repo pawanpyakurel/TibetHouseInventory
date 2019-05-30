@@ -1,0 +1,7 @@
+127.0.0.1 - - [25/May/2019:11:17:31 +0545] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:17:55 +0545] "GET /TibetHouseInventory/index.jsp HTTP/1.1" 500 8588
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:20:01 +0545] "GET /TibetHouseInventory/index.jsp HTTP/1.1" 500 8588
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:27:41 +0545] "GET /TibetHouseInventory/login.jsp HTTP/1.1" 200 450
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:27:50 +0545] "GET /TibetHouseInventory/UserLoginValidate?Uname=Bhumik&password=Regmi&submit=login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:27:50 +0545] "GET /TibetHouseInventory/login.jsp HTTP/1.1" 200 450
+0:0:0:0:0:0:0:1 - - [25/May/2019:11:28:47 +0545] "GET /TibetHouseInventory/Day.jsp HTTP/1.1" 500 8473

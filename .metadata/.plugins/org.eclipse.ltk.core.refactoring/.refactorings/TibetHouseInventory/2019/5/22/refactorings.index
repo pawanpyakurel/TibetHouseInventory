@@ -1,0 +1,6 @@
+1559197301492	Move 2 resources to 'POs'
+1559197364475	Move 'login.jsp' to 'POs'
+1559197600145	Move 'pos.jsp' to 'WEB-INF'
+1559197610521	Move 'pos.jsp' to 'WebContent'
+1559197622409	Move 'PosList.jsp' to 'WebContent'
+1559197656237	Move 'login.jsp' to 'WebContent'
